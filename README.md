@@ -1,5 +1,10 @@
 # gestion-vehiculos
 
+## Json Server  
+```
+json-server watch db.json --port 3000
+```
+
 ## Project setup
 ```
 npm install

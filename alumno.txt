@@ -1,0 +1,9 @@
+
+VUE 3
+Diplomado USIP FULL STACK v6.
+
+Rodrigo Iturri Munoz
+
+App de Gestion de Vehiculos y Categorias.
+
+

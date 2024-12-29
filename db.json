@@ -1,0 +1,40 @@
+{
+  "vehiculos": [
+    {
+      "id": "33a1",
+      "marca": "Toyota",
+      "modelo": "Corolla II",
+      "categoriaId": "1"
+    },
+    {
+      "id": "e3f8",
+      "marca": "Subaru",
+      "modelo": "Impresa WRC II",
+      "categoriaId": "1"
+    },
+    {
+      "id": "ba13",
+      "marca": "Honda ",
+      "modelo": "CRV",
+      "categoriaId": "2"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Sedan"
+    },
+    {
+      "id": "2",
+      "nombre": "Hatchback"
+    },
+    {
+      "id": "85ca",
+      "nombre": "Camionetas"
+    },
+    {
+      "id": "dd6e",
+      "nombre": "Vehiculo Militar"
+    }
+  ]
+}
